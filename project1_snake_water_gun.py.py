@@ -4,7 +4,7 @@
 # ''' 
 # SNAKE = 1
 # WATER = -1 
-# GUN = 0
+# GUN = 00
 
 # SNAKE > WATER
 # WATER > GUN
